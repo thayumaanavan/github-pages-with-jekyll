@@ -13,3 +13,8 @@ github_username:  thayumaanavan
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 theme: minima
+
+---
+title: "Welcome to my blog"
+date: 2018-04-25
+---
